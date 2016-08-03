@@ -1,6 +1,6 @@
---create database FOOBAR;
+create database FOOBAR;
 
---USE FOOBAR;
+USE FOOBAR;
 
 drop table FOO;
 drop table BAR;
